@@ -27,7 +27,7 @@ On the linked page scroll down and enter your information!
 - For all participants for food and supplies planning on the main Hackathon Day.
 
 **[Late or onsite Registration](https://bit.ly/hackagtech)**
-- Sign-up and join a team! It is never to late to contribute and join the fun!
+- Sign-up and join a team! It is never too late to contribute and join the fun!
 - If you register onsite at AIM or after July 1, you will need to join a team that has already formed. 
 - Lunch and refreshments on the main Hackathon day cannot be guaranteed. 
 
